@@ -4,6 +4,8 @@
 
 - 👨‍💻 All of my projects are available at [https://akshayportfolio-seven.vercel.app/](https://akshayportfolio-seven.vercel.app/)
 
+- LeetCode (https://leetcode.com/u/apooj002/)
+
 - 📫 How to reach me **https://www.linkedin.com/in/akshay-poojary-736080224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app**
 
 <h3 align="left">Connect with me:</h3>
